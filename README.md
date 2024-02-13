@@ -12,6 +12,9 @@ I'm still a beginner.
 * 🤝  I'm open to collaborating on Web/Mobile project
 * ⚡  My nickname is Bojah but I don't know what it means.
 
+<a href="https://www.github.com/ranbojaah" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ranbojaah?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a>
+
 ### Skills
 
 
