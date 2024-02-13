@@ -13,7 +13,7 @@ I'm still a beginner.
 * ⚡  My nickname is Bojah but I don't know what it means.
 
 <a href="https://www.github.com/ranbojaah" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ranbojaah?logo=github&style=for-the-badge&color=0891b2&labelColor=1e3a8a" /></a>
+src="https://img.shields.io/github/followers/ranbojaah?logo=github&style=for-the-badge&color=0891b2&labelColor=181824" /></a>
 
 ### Skills
 
@@ -31,6 +31,6 @@ src="https://img.shields.io/github/followers/ranbojaah?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ranbojaah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranbojaah&stroke=ffffff&background=1e3a8a&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ranbojaah"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ranbojaah&stroke=ffffff&background=181824&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ranbojaah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranbojaah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/ranbojaah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranbojaah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
